@@ -1,0 +1,13 @@
+{
+  "name": "Local Suite Execution",
+  "status": "unstable",
+  "tests": [
+    "LocalSuiteExecution_Web_BDD_Test"
+  ],
+  "total": 0,
+  "pass": 0,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1616076227712,
+  "endTime": 1616076227811
+}

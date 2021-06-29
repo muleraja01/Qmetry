@@ -1,0 +1,6 @@
+
+
+SCENARIO: Launch Application
+META-DATA: {"description":"Launch Application","groups":["Regression"]}
+	Given Launch Google Application
+END

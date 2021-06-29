@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "LaunchApplication",
+        "name": "Launch Application",
+        "groups": [
+          "scenario"
+        ],
+        "description": "Launch Application"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616073850868,
+      "duration": 19566,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

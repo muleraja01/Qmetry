@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="QAF Example" duration-ms="15632" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:21 IST">
+    <groups>
+      <group name="scenario">
+        <method signature="Scenario.scenario()[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8, instance params:[org.testng.TestRunner@21e360a]]" name="scenario" class="com.qmetry.qaf.automation.step.client.Scenario"/>
+      </group> <!-- scenario -->
+    </groups>
+    <test name="BDD Test" duration-ms="15632" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:21 IST">
+      <class name="com.qmetry.qaf.automation.step.client.Scenario">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="setupSuit" is-config="true" duration-ms="22" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="setupTest" is-config="true" duration-ms="1" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="setup" is-config="true" duration-ms="1" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="setupMethod" is-config="true" duration-ms="1" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qmetry.qaf.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="scenario()[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8, instance params:[org.testng.TestRunner@21e360a]]" test-instance-name="Launch Application" name="scenario" duration-ms="15079" started-at="2021-03-20T07:34:05 IST" finished-at="2021-03-20T07:34:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-20T07:34:21 IST" finished-at="2021-03-20T07:34:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=Launch Application status=SUCCESS method=Scenario.scenario()[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8, instance params:[org.testng.TestRunner@21e360a]] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="afterClass" is-config="true" duration-ms="0" started-at="2021-03-20T07:34:21 IST" finished-at="2021-03-20T07:34:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="afterTest" is-config="true" duration-ms="190" started-at="2021-03-20T07:34:21 IST" finished-at="2021-03-20T07:34:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]" test-instance-name="Launch Application" name="afterSuit" is-config="true" duration-ms="0" started-at="2021-03-20T07:34:21 IST" finished-at="2021-03-20T07:34:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@21e360a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.qmetry.qaf.automation.step.client.Scenario -->
+    </test> <!-- BDD Test -->
+  </suite> <!-- QAF Example -->
+</testng-results>

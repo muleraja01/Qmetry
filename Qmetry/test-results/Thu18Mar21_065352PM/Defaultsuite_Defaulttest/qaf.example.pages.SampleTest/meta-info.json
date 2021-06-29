@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "resultFileName": "TestGoogleSearch",
+        "name": "testGoogleSearch",
+        "groups": [],
+        "description": ""
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1616073832604,
+      "duration": 7,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}
